@@ -8,14 +8,23 @@ Variables:
 	There are 8 variables in my generator model problem: x1, x2, x3, x4, x5, x6, x7, x8. They are defined as given below:
   
 Variable	Definition
+
 x1	G1 Bidding Quantity 20 MW Step
+
 x2	G1 Bidding Quantity 30 MW Step
+
 x3	G1 Bidding Quantity 15 MW Step
+
 x4	G1 = x1 + x2 + x3 or total MW to be bid by G1
+
 x5	G2 Bidding Quantity 18 MW Step
+
 x6	G2 Bidding Quantity 26 MW Step 
+
 x7	G2 Bidding Quantity 32 MW Step
+
 x8	G2 = x5 + x6 + x7 or total MW to be bid by G2
+
 
 
 Objective Function:
