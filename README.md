@@ -1,4 +1,7 @@
 # Linear-Programming-Example-with-Power-Systems-Constraints-Bounds-Analysis-and-Solution
+
+Project Blog Article Here: https://portfolio.katiegirl.net/2018/08/01/linear-programming-and-generator-bids/
+
 This is a simple Linear Programming LP Example with a generic power system, constraints, and determines optimal solution
 
 Completion of LP Formulation
